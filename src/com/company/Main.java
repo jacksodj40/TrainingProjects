@@ -12,6 +12,8 @@ public class Main {
         Product product = new Product("Keyboard");
         System.out.println(product.getName());
 
+
+
 //        double price;
 //        double expectedDownPayment;
 //        price = Double.parseDouble(JOptionPane.showInputDialog(null,"Enter the price of the house"));
